@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fe6a8b7-2dc4-4ab6-9df0-1da762545a75" name="Changes" comment="intro to search agents" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="project/hello-world" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.005453978856078" />
+      <entry key="MS500" value="1.5706278572106702" />
+      <entry key="S2" value="2.8802079500607602" />
+      <entry key="S5" value="3.476260417293525" />
+      <entry key="S10" value="3.723262983068021" />
+      <entry key="S30" value="3.917313301145818" />
+      <entry key="S60" value="4.147486180525004" />
+      <entry key="M2" value="5.475414131625095" />
+      <entry key="M5" value="13.853980197645585" />
+      <entry key="M10" value="34.33131959259179" />
+      <entry key="M15" value="56.01328773544764" />
+      <entry key="M30" value="102.58810675780182" />
+      <entry key="H1" value="145.46014379893427" />
+      <entry key="H2" value="180.4093375851955" />
+      <entry key="H4" value="213.16041020981078" />
+      <entry key="D1" value="322.2587911354883" />
+      <entry key="W1" value="385.08857864922174" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.1111037875851818E-128" />
+      <entry key="S2" value="1.2007215806700759E-32" />
+      <entry key="S5" value="2.389435507900329E-13" />
+      <entry key="S10" value="6.808868991685089E-7" />
+      <entry key="S30" value="0.013917939451622487" />
+      <entry key="S60" value="0.16812881324172813" />
+      <entry key="M2" value="0.640957063470192" />
+      <entry key="M5" value="2.193720014104378" />
+      <entry key="M10" value="5.292785963692031" />
+      <entry key="M15" value="8.128320552939662" />
+      <entry key="M30" value="13.484408165606993" />
+      <entry key="H1" value="17.863326869700277" />
+      <entry key="H2" value="20.800233875604043" />
+      <entry key="H4" value="23.085212431560663" />
+      <entry key="D1" value="38.24154064136794" />
+      <entry key="W1" value="49.43809297617621" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.991611595231048" />
+      <entry key="MS500" value="1.5662141090623916" />
+      <entry key="S2" value="2.8780509153018863" />
+      <entry key="S5" value="3.4751946303374046" />
+      <entry key="S10" value="3.7226879551188685" />
+      <entry key="S30" value="3.9302696408833824" />
+      <entry key="S60" value="4.310893854804527" />
+      <entry key="M2" value="6.107772390958487" />
+      <entry key="M5" value="16.036246987741183" />
+      <entry key="M10" value="39.608920314842955" />
+      <entry key="M15" value="64.12533097602504" />
+      <entry key="M30" value="116.05841068495137" />
+      <entry key="H1" value="163.31392243057715" />
+      <entry key="H2" value="201.20388996575014" />
+      <entry key="H4" value="236.24238488238416" />
+      <entry key="D1" value="360.4994135103815" />
+      <entry key="W1" value="434.52650219760073" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MCeDz4dCoOCYVh7WA2JTLWMYWz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.__init__.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "project/react-search-agent",
+    "last_opened_file_path": "/Users/uschti/git/langchain-course",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="langchain-course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="~/git/langchain-course/.venv" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="true" />
+      <option name="RUN_AS_SCRIPT" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-34611be1ca5a-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.206" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fe6a8b7-2dc4-4ab6-9df0-1da762545a75" name="Changes" comment="" />
+      <created>1794858860405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794858860405</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added langswitch tracing">
+      <option name="closed" value="true" />
+      <created>1794925118862</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1794925118862</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added langswitch tracing">
+      <option name="closed" value="true" />
+      <created>1794925150075</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1794925150075</updated>
+    </task>
+    <task id="LOCAL-00003" summary="chore: update gitignore">
+      <option name="closed" value="true" />
+      <created>1794943555155</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1794943555155</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added langswitch tracing" />
+    <MESSAGE value="chore: update gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: update gitignore" />
+  </component>
+</project>
